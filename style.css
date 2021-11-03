@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+#img {
+    width: 350px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.links {
+    float: right;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: antiquewhite;
+}
+
+.g1 {
+    background: linear-gradient(#cff4ff 0%, #e8aed3 100%);
+    background-repeat: no-repeat;
+}
+
+.g2 {
+    background: linear-gradient(#e8aed3 0%, #aeaee8 100%);
+    background-repeat: no-repeat;
+}
